@@ -1,0 +1,7 @@
+out.ps
+line line1 PS_MAGENTA -100 -300 150 350 3
+circle circle1 PS_RED -100 100 70 2 true
+point point1 PS_BLACK 150 200 
+point point2 PS_BLUE -200 100 
+polygon poly1 PS_GREEN 5 250 350 160 200 250 -200 -100 -250 -250 150 2 false
+text text1 PS_BLACK 50 50 YonseiUniversity 24
